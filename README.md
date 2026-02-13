@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 👋 Olá, eu sou o Lucas<br>🎓 Graduando em Gestão da Tecnologia da Informação<br>📊 Em transição de carreira para a área de Tecnologia<br>🚀 Interessado em Dados, Projetos e Desenvolvimento<br>💼 Sobre mim<br>Profissional com experiência nas áreas administrativa, logística e atendimento, atuando no suporte a processos internos, controle documental, emissão de notas fiscais e elaboração de relatórios.<br>Atualmente focado em desenvolver habilidades técnicas na área de tecnologia, com interesse especial em:<br>📌 Análise de Dados<br>📌 SQL e Banco de Dados<br>📌 Gestão de Projetos<br>📌 Python para automação<br>📌 Segurança da Informação<br>🛠️ Tecnologias e Ferramentas<br>Python (básico/intermediário)<br>SQL<br>Excel Avançado<br>Git & GitHub<br>Pacote Office<br>Noções de HTML e CSS<br>📚 Certificações e Estudos<br>Introdução à Gestão de Projetos<br>Introdução ao SQL<br>Fundamentos de Segurança da Informação
 
 
